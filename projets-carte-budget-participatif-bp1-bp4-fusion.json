@@ -399,7 +399,7 @@
     "zone": "Centre Ville",
     "latitude": -20.8839959,
     "longitude": 55.4545601,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/aceb064f6108c450a8ea5294b54aa9c4098942cd.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/amenager-des-zones-calmes-propices-a-la-detente",
     "Edition": "BP4"
@@ -414,7 +414,7 @@
     "zone": "Saint François",
     "latitude": -20.9244204,
     "longitude": 55.4559093,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/kiosque-et-abirs-a-st-francois",
     "Edition": "BP4"
@@ -429,7 +429,7 @@
     "zone": "La Source",
     "latitude": -20.8910666,
     "longitude": 55.4547297,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/cfeca845b4102c585f870bf3126d5034a62ad156.png",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/zardin-lavoir-2-0",
     "Edition": "BP4"
@@ -444,7 +444,7 @@
     "zone": "Montagne 15ème",
     "latitude": -20.8994301,
     "longitude": 55.4013112,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/le-jardin-du-pere-raimbault-a-la-montagne",
     "Edition": "BP4"
@@ -459,7 +459,7 @@
     "zone": "Centre Ville",
     "latitude": -20.8767375,
     "longitude": 55.4492425,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/trottoir-pres-du-chat-blanc-a-ameliorer-pour-l-accessibilite",
     "Edition": "BP4"
@@ -474,7 +474,7 @@
     "zone": "Centre Ville",
     "latitude": -20.8839959,
     "longitude": 55.4545601,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/e298176a20d5eb9e36fd8851663eb9b5b909da8a.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/vegetaliser-la-cour-pour-favoriser-lombre-et-ramener-de-la-nature-dans-lecole",
     "Edition": "BP4"
@@ -489,7 +489,7 @@
     "zone": "Chaudron",
     "latitude": -20.888255,
     "longitude": 55.4877223,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/amenagement-dune-serre-a-papillons",
     "Edition": "BP4"
@@ -504,7 +504,7 @@
     "zone": "Montagne 15ème",
     "latitude": -20.8970011,
     "longitude": 55.3937634,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/bf62db22672d59788cb9d7b034d90e41e0dd40db.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/amenagement-d-agres-senior-et-personne-porteuse-d-handicape",
     "Edition": "BP4"
@@ -519,7 +519,7 @@
     "zone": "Chaudron",
     "latitude": -20.8924833,
     "longitude": 55.4942475,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/cuisine-aux-jardins-familiaux-au-chaudron",
     "Edition": "BP4"
@@ -534,7 +534,7 @@
     "zone": "Saint François",
     "latitude": -20.919294772816,
     "longitude": 55.45950204134,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": "https://bp.saintdenis.re/media/default/0001/01/d181c504cafe912b1dfeaafd72b9f7f9e8e91a41.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/faisons-lecole-dehors",
     "Edition": "BP4"
@@ -549,7 +549,7 @@
     "zone": "Bellepierre",
     "latitude": -20.8966033,
     "longitude": 55.4443923,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/bdb5a5831c6ba74d492849bf59325f91107af270.jpg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/parc-de-jeux-pour-enfants-sur-bellepierre",
     "Edition": "BP4"
@@ -564,7 +564,7 @@
     "zone": "Sainte Clotilde",
     "latitude": -20.8955374,
     "longitude": 55.4955309,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": "https://bp.saintdenis.re/media/default/0001/01/39e98fa5b20f33162c4c7e12bae76c0d38050e83.jpg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/cafe-intergenerationnel",
     "Edition": "BP4"
@@ -579,7 +579,7 @@
     "zone": "Ville de Saint Denis",
     "latitude": -20.8784675,
     "longitude": 55.4484856,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/des-boites-a-livres-a-saint-denis",
     "Edition": "BP4"
@@ -594,7 +594,7 @@
     "zone": "Ville de Saint Denis",
     "latitude": -20.8784675,
     "longitude": 55.4484856,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/aire-de-jeu-inclusive-67fcf2f316c68",
     "Edition": "BP4"
@@ -609,7 +609,7 @@
     "zone": "Moufia",
     "latitude": -20.9106808,
     "longitude": 55.4831661,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/909b6a2180f42e1e2a70243b1b576f6323ec6185.jpg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/air-jeux-outdoor",
     "Edition": "BP4"
@@ -624,7 +624,7 @@
     "zone": "La Source",
     "latitude": -20.8897757,
     "longitude": 55.448446,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": "https://bp.saintdenis.re/media/default/0001/01/298af1b76669ede14fdedfa2a37ecc50fa719b37.png",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/le-bonheur-est-dans-la-cour",
     "Edition": "BP4"
@@ -639,7 +639,7 @@
     "zone": "Vauban",
     "latitude": -20.8903441,
     "longitude": 55.4594416,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/zone-de-pique-nique-a-vauban",
     "Edition": "BP4"
@@ -654,7 +654,7 @@
     "zone": "Moufia",
     "latitude": -20.9178221,
     "longitude": 55.4877417,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/theatre-sous-pied-bois",
     "Edition": "BP4"
@@ -669,7 +669,7 @@
     "zone": "La Source",
     "latitude": -20.8918577,
     "longitude": 55.4516737,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/271762eed194ad414408e88002061cb76bc168e7.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/aquaponie-et-recuperateurs-deau-de-pluie-sur-loasis-ressource-de-la-source",
     "Edition": "BP4"
@@ -684,7 +684,7 @@
     "zone": "Ville de Saint Denis",
     "latitude": -20.8812267,
     "longitude": 55.4495033,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours d'étude",
     "image": "https://bp.saintdenis.re/media/default/0001/01/1f796217aebd63218719cf6f7c7f903910c93609.jpeg",
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/le-ti-coin-marmay-zen-et-educatif",
     "Edition": "BP4"
@@ -699,7 +699,7 @@
     "zone": "Vauban",
     "latitude": -20.8882761,
     "longitude": 55.4595875,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/amenagement-du-parc-de-bois-de-nefles",
     "Edition": "BP4"
@@ -714,7 +714,7 @@
     "zone": "Chaudron",
     "latitude": -20.8924833,
     "longitude": 55.4942475,
-    "statut": "Projets lauréats",
+    "statut": "Projet en cours de réalisation",
     "image": null,
     "lien": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/amenagement-aux-jardins-familiaux-du-chaudron",
     "Edition": "BP4"
