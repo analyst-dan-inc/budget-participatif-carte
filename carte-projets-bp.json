@@ -136,11 +136,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/toilettes-seches",
     "category": "Déchets-propreté",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "21 Av. Georges Pompidou, Saint-Denis 97400, La Réunion",
+    "lat": -20.8894355,
+    "lng": 55.4873747,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "CHAUDRON"
   },
   {
     "id": "UHJvcG9zYWw6MWY4M2YyMmQtMzNmYy0xMWVjLWI5NTQtMDI0MmFjMTEwMDA1",
@@ -175,11 +175,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/zardin-partage-pei",
     "category": "Nature en ville",
     "edition_bp": "bp1",
-    "formatted_address": "59 C Chem. du Ruisseau Blanc, Saint-Denis 97417, La Réunion",
-    "lat": -20.894278,
-    "lng": 55.41372,
+    "formatted_address": "Bd de la Providence, Saint-Denis 97400, La Réunion",
+    "lat": -20.8928609,
+    "lng": 55.4557249,
     "statut": "Projet réalisé",
-    "quartier": "MONTAGNE 8ème"
+    "quartier": "CAMELIAS PROVIDENCE"
   },
   {
     "id": "UHJvcG9zYWw6MzkxYzdjNDktMzk0Ny0xMWVjLWI5NTQtMDI0MmFjMTEwMDA1",
@@ -292,11 +292,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/proposition-sans-titre-61aa19260010c",
     "category": "Aménagement des espaces publics et mobiliers urbains",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Chem. des Tilleuls, Saint-Denis 97400, La Réunion",
+    "lat": -20.8992413,
+    "lng": 55.3970403,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "MONTAGNE 15ème"
   },
   {
     "id": "UHJvcG9zYWw6MjMzYTQ3MmQtYzA5ZS0xMWVjLTgxMTMtMDI0MmFjMTEwMDA0",
@@ -500,11 +500,11 @@
     "url": "https://bp.saintdenis.re/project/formation-2eme-edition-du-budget-participatif-de-saint-denis/collect/proposez-vos-idees/proposals/street-workout-park-et-skate-park",
     "category": "Sports et loisirs",
     "edition_bp": "bp2",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Salle polyvalente de la Bretagne, 5 Chem. Des Routiers, Saint-Denis 97490, La Réunion",
+    "lat": -20.9173496,
+    "lng": 55.4947781,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "BRETAGNE"
   },
   {
     "id": "UHJvcG9zYWw6MmQ5ODUxNTItZTdlOS0xMWVjLWE2MjYtMDI0MmFjMTEwMDA0",
