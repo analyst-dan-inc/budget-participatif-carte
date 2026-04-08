@@ -19,9 +19,9 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/cameras-pour-tracker-les-makoteries",
     "category": "Déchets-propreté",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Rue Mgr Mondon, Saint-Denis 97400, La Réunion",
+    "lat": -20.8950097,
+    "lng": 55.4600252,
     "statut": "Projet réalisé",
     "quartier": "CAMELIAS PROVIDENCE"
   },
@@ -32,9 +32,9 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/potager-pedagogique",
     "category": "Education",
     "edition_bp": "bp1",
-    "formatted_address": "La Bretagne, Sainte-Clotilde 97400, La Réunion",
-    "lat": -20.9287752,
-    "lng": 55.49424750000001,
+    "formatted_address": "4 Chem. de Bois Rouge, Sainte-Clotilde 97490, La Réunion",
+    "lat": -20.9193415,
+    "lng": 55.4933817,
     "statut": "Projet réalisé",
     "quartier": "BRETAGNE"
   },
@@ -45,11 +45,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/jeux-de-plein-air",
     "category": "Sports et loisirs",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Parking, 17 Bd Vauban, Saint-Denis 97400, La Réunion",
+    "lat": -20.8890832,
+    "lng": 55.4642098,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "VAUBAN"
   },
   {
     "id": "UHJvcG9zYWw6NzRlZDJmMmEtMmMyMy0xMWVjLWI5NTQtMDI0MmFjMTEwMDA1",
@@ -97,11 +97,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/stationnement-cyclistes-devant-les-ecoles",
     "category": "Mobilités",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "10 Rue Sainte-Anne, Saint-Denis 97400, La Réunion",
+    "lat": -20.8823406,
+    "lng": 55.4495483,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "CENTRE-VILLE"
   },
   {
     "id": "UHJvcG9zYWw6OWE0MzBlNDEtMzFjOS0xMWVjLWI5NTQtMDI0MmFjMTEwMDA1",
@@ -175,11 +175,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/zardin-partage-pei",
     "category": "Nature en ville",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "59 C Chem. du Ruisseau Blanc, Saint-Denis 97417, La Réunion",
+    "lat": -20.894278,
+    "lng": 55.41372,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "MONTAGNE 8ème"
   },
   {
     "id": "UHJvcG9zYWw6MzkxYzdjNDktMzk0Ny0xMWVjLWI5NTQtMDI0MmFjMTEwMDA1",
@@ -253,11 +253,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/espace-fleuri",
     "category": "Déchets-propreté",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Rue de la Gare, Saint-Denis 97400, La Réunion",
+    "lat": -20.8943508,
+    "lng": 55.4912824,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "CHAUDRON"
   },
   {
     "id": "UHJvcG9zYWw6YjQyYjk0MWUtNTI2Mi0xMWVjLWE5MWUtMDI0MmFjMTEwMDAz",
@@ -279,9 +279,9 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-2021/collect/depot/proposals/proposition-sans-titre-61aa17f86d4b1",
     "category": "Mobilités",
     "edition_bp": "bp1",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "7 Rue Mgr Mondon, Saint-Denis 97400, La Réunion",
+    "lat": -20.893139,
+    "lng": 55.46088529999999,
     "statut": "Projet réalisé",
     "quartier": "CAMELIAS PROVIDENCE"
   },
@@ -344,11 +344,11 @@
     "url": "https://bp.saintdenis.re/project/formation-2eme-edition-du-budget-participatif-de-saint-denis/collect/proposez-vos-idees/proposals/parc-de-jeux-saint-clotilde",
     "category": "Aménagement des espaces publics et mobiliers urbains",
     "edition_bp": "bp2",
-    "formatted_address": "Sainte-Clotilde, Saint-Denis 97400, La Réunion",
-    "lat": -20.8955374,
-    "lng": 55.4955309,
+    "formatted_address": "Rue de la Cure, Saint-Denis 97400, La Réunion",
+    "lat": -20.8919934,
+    "lng": 55.4789029,
     "statut": "Projet réalisé",
-    "quartier": "CHAUDRON"
+    "quartier": "BUTOR STE-CLOTILDE"
   },
   {
     "id": "UHJvcG9zYWw6NTBhMjI3ZDQtZDljNi0xMWVjLWEzNWMtMDI0MmFjMTEwMDA0",
@@ -448,11 +448,11 @@
     "url": "https://bp.saintdenis.re/project/formation-2eme-edition-du-budget-participatif-de-saint-denis/collect/proposez-vos-idees/proposals/stationnement-velo-sur-les-quartiers-trinite-champ-fleuri-et-la-source",
     "category": "Mobilités",
     "edition_bp": "bp2",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Rue Jean Cocteau, Saint-Denis 97400, La Réunion",
+    "lat": -20.8880313,
+    "lng": 55.4666032,
     "statut": "Projet réalisé",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "MARCADET"
   },
   {
     "id": "UHJvcG9zYWw6MzAxYTMxMmQtZTNjYi0xMWVjLWE2MjYtMDI0MmFjMTEwMDA0",
@@ -474,11 +474,11 @@
     "url": "https://bp.saintdenis.re/project/formation-2eme-edition-du-budget-participatif-de-saint-denis/collect/proposez-vos-idees/proposals/marquage-des-lieux-historiques-de-grand-marronnage-a-saint-denis",
     "category": "Valorisation du patrimoine",
     "edition_bp": "bp2",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "Rte Digue, Saint-Denis 97400, La Réunion",
+    "lat": -20.8935906,
+    "lng": 55.4713684,
     "statut": "Projet en cours d'étude",
-    "quartier": "CAMELIAS PROVIDENCE"
+    "quartier": "MARCADET"
   },
   {
     "id": "UHJvcG9zYWw6Y2FhMTc5MzYtZTQxYS0xMWVjLWE2MjYtMDI0MmFjMTEwMDA0",
@@ -643,9 +643,9 @@
     "url": "https://bp.saintdenis.re/project/formation-2eme-edition-du-budget-participatif-de-saint-denis/collect/proposez-vos-idees/proposals/proposition-sans-titre-634d2c2ae4495",
     "category": "Nature en ville",
     "edition_bp": "bp2",
-    "formatted_address": "Saint-Denis, 97400, La Réunion",
-    "lat": -20.8906596,
-    "lng": 55.4550536,
+    "formatted_address": "28 Bd Notre Dame De La Trinité, Saint-Denis 97400, La Réunion",
+    "lat": -20.8929941,
+    "lng": 55.4652091,
     "statut": "Projet réalisé",
     "quartier": "CAMELIAS PROVIDENCE"
   },
@@ -786,9 +786,9 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-edition-3/collect/proposez-vos-projets/proposals/renovation-du-parc-de-jeux-de-bois-rouge",
     "category": "Aménagement des espaces publics et mobiliers urbains",
     "edition_bp": "bp3",
-    "formatted_address": "La Bretagne, Sainte-Clotilde 97400, La Réunion",
-    "lat": -20.9287752,
-    "lng": 55.49424750000001,
+    "formatted_address": "136 Chem. de Bois Rouge, Saint-Denis 97490, La Réunion",
+    "lat": -20.9257934,
+    "lng": 55.4886832,
     "statut": "Projet en cours d'étude",
     "quartier": "BRETAGNE"
   },
@@ -838,11 +838,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-edition-3/collect/proposez-vos-projets/proposals/espace-marmay-la-kour",
     "category": "Aménagement des espaces publics et mobiliers urbains",
     "edition_bp": "bp3",
-    "formatted_address": "Sainte-Clotilde, Saint-Denis 97400, La Réunion",
-    "lat": -20.8955374,
-    "lng": 55.4955309,
+    "formatted_address": "75 All. des Chrysanthémes, Saint-Denis 97490, La Réunion",
+    "lat": -20.8878626,
+    "lng": 55.4842847,
     "statut": "Projet réalisé",
-    "quartier": "CHAUDRON"
+    "quartier": "BUTOR STE-CLOTILDE"
   },
   {
     "id": "UHJvcG9zYWw6NDg4ZDk3NWUtNTRiZi0xMWVlLWE0YzQtMDI0MmFjMTEwMDA0",
@@ -981,9 +981,9 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-edition-3/collect/proposez-vos-projets/proposals/proposition-sans-titre-65ead4ac970c7",
     "category": "Citoyenneté",
     "edition_bp": "bp3",
-    "formatted_address": "La Bretagne, Sainte-Clotilde 97400, La Réunion",
-    "lat": -20.9287752,
-    "lng": 55.49424750000001,
+    "formatted_address": "5 Chem. de Bois Rouge, Saint-Denis 97490, La Réunion",
+    "lat": -20.9198887,
+    "lng": 55.4932951,
     "statut": "Projet réalisé",
     "quartier": "BRETAGNE"
   },
@@ -1159,7 +1159,7 @@
   {
     "id": "UHJvcG9zYWw6YTRiNGUwOGQtN2ZlMy0xMWVmLWJlYTQtMDI0MmFjMTEwMDA0",
     "title": "Air jeux Outdoor au Moufia",
-    "bodyText": "Créer une vraie aire de jeux moderne et ludique pour les tout petits au enfants de 12 ans ( 0 - 12 ans) dans la zone du Moufia près des écoles. Accompagnée d'un espace végétalisé et de bancs afin de permettre aux gens du quartier de se retrouver et aux enfants de jouer.Intégrer des aires de jeux multisport, équipement de proximité, sport filet. Badminton, mini tennis, tennis ballon. Construire la solidarité, la bienveillance et la confiance en soi pour les enfants tout en alliant sortie pour les familles. Détente et dépense. OUModerniser, refaire directement les petits espaces d’aire de jeux se situant vers la salle communale des eglantines et celui au Moufia les Hauts en haut de la Tour. Installer des bancs pour les parents et gens du quartier + aménagement d'un petit jardin vegetalisé voir même un potager. ",
+    "bodyText": "Moderniser, refaire directement les petits espaces d’aire de jeux se situant vers la salle communale des eglantines et celui au Moufia les Hauts en haut de la Tour. Installer des bancs pour les parents et gens du quartier + aménagement d'un petit jardin vegetalisé voir même un potager. ",
     "url": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/air-jeux-outdoor",
     "category": "Sports et loisirs",
     "edition_bp": "bp4",
@@ -1176,11 +1176,11 @@
     "url": "https://bp.saintdenis.re/project/budget-participatif-4/collect/proposez-vos-projets/proposals/cafe-intergenerationnel",
     "category": "Innovation sociale ou numérique",
     "edition_bp": "bp4",
-    "formatted_address": "Sainte-Clotilde, Saint-Denis 97400, La Réunion",
-    "lat": -20.8955374,
-    "lng": 55.4955309,
+    "formatted_address": "87 Av. Maréchal de Lattre de Tassigny, Saint-Denis 97400, La Réunion",
+    "lat": -20.8904561,
+    "lng": 55.4794319,
     "statut": "Projet en cours de réalisation",
-    "quartier": "CHAUDRON"
+    "quartier": "BUTOR STE-CLOTILDE"
   },
   {
     "id": "UHJvcG9zYWw6NjAwMGJjMmUtODAyNy0xMWVmLWJlYTQtMDI0MmFjMTEwMDA0",
